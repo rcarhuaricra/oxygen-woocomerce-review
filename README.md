@@ -1,4 +1,4 @@
 # oxygen-woocomerce-review
 
 
-![Alt text](../../ranking.png?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/rcarhuaricra/oxygen-woocomerce-review/main/ranking.png)

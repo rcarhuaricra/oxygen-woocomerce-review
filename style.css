@@ -1,0 +1,54 @@
+.review-wawa{
+	display: flex;
+}
+.review-wawa-info{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+	color: white;
+}
+.review-wawa-info h1{
+	line-height: 1;
+	font-size: 3em;
+}
+.review-wawa-info .star-rating{
+	color:white;
+	letter-spacing: 7px;
+	font-size: 2em;
+	width: 100%;
+}
+.woocommerce .star-rating::before{
+	position: relative;
+	color: white;
+}
+.review-wawa-info p{
+	margin: 5px;
+}
+.review-wawa-count{
+	display: flex;
+	width: 100%;
+}
+.review-wawa-count ul{
+	width: 100%;
+}
+.review-wawa-count ul li{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	color: white;
+}
+.review-wawa-count ul li span{
+	width: 100%;
+	height: 10px;
+	border: 2px solid white;
+	position: relative;
+	margin-left: 10px;
+}
+
+.review-wawa-count ul li span i{
+	position: absolute;
+	background: white;
+	top: 0;
+    bottom: 0;
+}
